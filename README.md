@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# TBD-course-name
+# Java Learners Course
 
-_TBD-course-description_
+Fountain Valley High School Java course for learning to program in Java.
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -22,13 +22,9 @@ _TBD-course-description_
 
 <!--step0
 
-TBD-welcome-paragraph
+Welcome
 
-- **Who is this for**: TBD-audience.
-- **What you'll learn**: TBD-objective.
-- **What you'll build**: TBD-result.
-- **Prerequisites**: TBD-prerequisites.
-- **How long**: This course is TBD-step-count steps long and takes less than TBD-duration to complete.
+This course is intended for students of Fountain Valley High School in Computer Science and Engineering club (Robotics), however this resource may be used by everyone. The content covered in this course will attempt to generalize programming concepts and may reference other languages in order to allow you to understand capabilities of Java and its limits. There are no prerequisites to taking this course and no experience is necessary. The introduction can be completed in as many as 3 weeks. 
 
 ## How to start this course
 
